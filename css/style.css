@@ -1,0 +1,37 @@
+
+
+.banter{
+  border: 3px;
+  border-style: double;
+  border-color: black; 
+ /* background-color: #C5CC68;*/
+
+  /*color: #153170;*/
+}
+
+.ingredients {
+  border: 3px;
+  border-style: double;
+ /* background-color: #9AB6EF;*/
+  border-color: black;
+}
+
+.preparing {
+  border: 3px;
+  border-style: double;
+  /*background-color: #E99AEF;*/
+}
+
+.checkbox-ingredients {
+  display: block;
+  position: relative;
+  cursor: pointer;
+
+}
+
+.recipes-list {
+  border: 3px  black;
+/*  background-color: #BAF4BF;/*
+  border-style: double;
+
+}
